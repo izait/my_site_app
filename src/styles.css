@@ -1,0 +1,48 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-color: #282c34;
+}
+.header{
+    background-color: #282c34;
+    height: 4em;
+}
+.header h2 {
+   color: aliceblue;
+   float: right;
+   margin: 0.5em;
+}
+.home{
+   background-color: #282c34;
+}
+.nav-title h2{
+   color: aliceblue;
+}
+.nav-item{
+   text-decoration: none;
+   display: inline-block;
+   margin: 2em;
+}
+.home h2 {
+   color: aliceblue;
+}
+input {
+   height: 2em;
+   margin-top: 1em;
+}
+form {
+   margin-top: 0.5em;
+}
+.result{
+   margin: 6em;
+}
+.header a{
+   text-decoration: none;
+   float: left;
+}
+.quit{
+   float: right;
+   cursor: pointer;
+}
