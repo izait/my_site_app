@@ -47,7 +47,10 @@
   height: 6em;
 
 }
-
+.modal_message h2{
+  color: aliceblue;
+  display: block;
+}
 .modal_header .modal_message h2{
   color: aliceblue;
   margin: 2.5em;
