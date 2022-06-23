@@ -41,6 +41,7 @@ form {
 .header a{
    text-decoration: none;
    float: left;
+   cursor: pointer;
 }
 .quit{
    float: right;
