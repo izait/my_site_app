@@ -55,7 +55,7 @@ class Header extends Component {
                         }
                         <a href="/"><h2> На главную. </h2></a>
                         <div className="quit" onClick={this.logout}>
-                            <h2>{this.state.authorized ? 'Выход' : ' '}</h2>
+                            <h2>{this.state.authorized ? 'Выход' : 'Вход'}</h2>
                         </div>
                         <div className="userName">
                             {
